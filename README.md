@@ -11,7 +11,8 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madinamarat) [![Alt text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madina.maratovna@gmail.com)
 
 
-![Madina's github stats](https://github-readme-stats.vercel.app/api?username=madinamarat&hide=stars,prs)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madinamarat&layout=compact)](https://github.com/madinamarat/github-readme-stats)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=madinamarat&hide=stars,prs" />
