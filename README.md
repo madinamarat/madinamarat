@@ -6,9 +6,10 @@
 - 🌱 I’m currently learning Keras
 - 🤓 2021 goal: contribute to open source projects
 - 💬 Ask me about anything
-- 📫 How to reach me: ...
+- 📫 Feel free to reach me:
 
 [CV](https://resume.creddle.io/resume/fj5tarr7xiq)
+
 [![Alt text](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/madinamarat)
 &nbsp;
 [![Alt text](https://i.stack.imgur.com/tskMh.png)](https://github.com/)
