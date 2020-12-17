@@ -15,4 +15,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madinamarat&layout=compact)](https://github.com/madinamarat/github-readme-stats)
 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madinamarat&layout=compact" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=madinamarat&hide=stars,prs" />
