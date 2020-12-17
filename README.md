@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there! I'm Madina 👋 
 
-<!--
-**madinamarat/madinamarat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am a data scientist with hands-on experience in data mining and machine learning. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on [machine learning projects](https://github.com/madinamarat/machine_learning_projects)
+- 🌱 I’m currently learning Keras
+- 🤓 2021 goal: contribute to open source projects
+- 💬 Ask me about anything
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[CV](https://resume.creddle.io/resume/fj5tarr7xiq)
+[![Alt text](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/madinamarat)
+&nbsp;
+[![Alt text](https://i.stack.imgur.com/tskMh.png)](https://github.com/)
+
+![Madina's github stats](https://github-readme-stats.vercel.app/api?username=madinamarat&count_private=true)
