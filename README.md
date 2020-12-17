@@ -7,6 +7,8 @@
 - 🌱 Learning Keras
 - 🤓 Current goal: contribute more to open source projects
 - 📙 Check out my [CV](https://resume.creddle.io/resume/fj5tarr7xiq)
+- Feel free to reach me at
+[![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/madinamarat) and [![Alt text](https://i.stack.imgur.com/tskMh.png)](mailto:madina.maratovna@gmail.com)
 
 
 ![Madina's github stats](https://github-readme-stats.vercel.app/api?username=madinamarat&hide=stars,prs)
