@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [machine learning projects](https://github.com/madinamarat/machine_learning_projects)
 - 🌱 I’m currently learning Keras
-- 🤓 2021 goal: contribute to open source projects
+- 🤓 Current goal: contribute more to open source projects
 - 💬 Ask me about anything
-- 📫 Feel free to reach me:
+- 📫 Feel free to reach me
 
 [CV](https://resume.creddle.io/resume/fj5tarr7xiq)
 
@@ -15,3 +15,5 @@
 [![Alt text](https://i.stack.imgur.com/tskMh.png)](https://github.com/)
 
 ![Madina's github stats](https://github-readme-stats.vercel.app/api?username=madinamarat&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madinamarat)](https://github.com/madinamarat/github-readme-stats)
