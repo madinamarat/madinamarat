@@ -14,6 +14,6 @@
 &nbsp;
 [![Alt text](https://i.stack.imgur.com/tskMh.png)](https://github.com/)
 
-![Madina's github stats](https://github-readme-stats.vercel.app/api?username=madinamarat&count_private=true)
+![Madina's github stats](https://github-readme-stats.vercel.app/api?username=madinamarat&hide=stars,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madinamarat&layout=compact)](https://github.com/madinamarat/github-readme-stats)
