@@ -14,7 +14,5 @@
 #### Feel free to reach me 👇
 [![Alt text](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/madinamarat)
 &nbsp;
-[![Alt text](https://i.stack.imgur.com/tskMh.png)](https://github.com/)
+[![Alt text](https://i.stack.imgur.com/tskMh.png)](mailto:madina.maratovna@gmail.com)
 
-
-[![Alt text](mailto:madina.maratovna@gmail.com)
