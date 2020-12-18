@@ -15,3 +15,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=madinamarat&hide=stars,prs" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=madinamarat)
+
+
+
+<a href="https://github.com/madinamarat/madinamarat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madinamarat&layout=compact" />
+</a>
+<a href="https://github.com/madinamarat/madinamarat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=madinamarat&show_icons&hide=stars,prs=true" alt="Madina's GitHub Stats" />
+</a>
