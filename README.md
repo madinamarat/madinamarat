@@ -15,3 +15,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=madinamarat&hide=stars,prs" />
 
 <img align="center" src="https://github-readme-stats-git-width-fit-to-content.terror.vercel.app/api?username=madinamarat&hide=stars,prs" />
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=madinamarat)
