@@ -1,5 +1,5 @@
 ### Hi there! I'm Madina 👋 👩🏻‍💻 
-#### I am a data scientist with bdeep understanding of usiness processes and a passion for helping others.
+#### I am a data scientist with deep understanding of business processes and a passion for helping others.
  
 - 🔭 I’m currently working on [machine learning projects](https://github.com/madinamarat/machine_learning_projects)
 - 🌱 Learning Keras
