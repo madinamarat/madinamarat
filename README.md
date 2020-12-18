@@ -17,5 +17,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=madinamarat&show_icons&hide=stars,prs=true" alt="Madina's GitHub Stats" />
 </a>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=madinamarat)
 
-👀 ![visitors](https://visitor-badge.glitch.me/badge?page_id=madinamarat)
