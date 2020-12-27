@@ -1,7 +1,7 @@
 ### Hi there! I'm Madina 👋 👩🏻‍💻 
 #### I am a data scientist with extensive experience in mapping out business processes and a passion for helping others.
  
-- 🔭 I’m currently working on [fake news detector](https://github.com/madinamarat/fake_news_detector)
+- 🔭 I’m currently working on [MNIST](https://github.com/madinamarat/MNIST)
 - 🌱 Learning Keras
 - 🚀 Current goal: contribute more to open source projects
 - 📙 Check out my [CV](https://resume.creddle.io/resume/fj5tarr7xiq)
