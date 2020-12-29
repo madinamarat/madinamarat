@@ -1,5 +1,5 @@
 ### Hi there! I'm Madina 👋 👩🏻‍💻 
-#### I am a data scientist with extensive experience in mapping out business processes and a passion for helping others.
+#### I am a data scientist with extensive experience in business processes mining and a passion for helping others.
  
 - 🔭 I’m currently working on [MNIST](https://github.com/madinamarat/MNIST)
 - 🌱 Learning Keras
