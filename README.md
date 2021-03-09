@@ -1,7 +1,6 @@
 ### Hi there! I'm Madina 👋 👩🏻‍💻 
 #### I am a data scientist with extensive experience in business processes optimization.
- 
-- 🚀 Current goal: contribute more to open source projects
+
 - 📙 Check out my [CV](https://resume.creddle.io/resume/fj5tarr7xiq)
 - 🤙 Feel free to reach out to me!
 
